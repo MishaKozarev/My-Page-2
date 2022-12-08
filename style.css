@@ -22,7 +22,8 @@ a{
     max-width: 1280px;
     height: 100vh;
     margin: 0 auto;
-    min-width: 480px;
+    min-width: 940px;
+    /* @media (min-width: 940px) */
 }
 
 
